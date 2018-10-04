@@ -1,0 +1,28 @@
+* {
+    font-family: calibri, tahoma, arial, verdana;
+	font-size: 11px;
+	color: #222;
+}
+body {
+	margin: 0;
+	padding: 0;
+	overflow : hidden;
+    background-color: #EEEEEE;
+}
+img {
+	border: 0,
+}
+a:hover {
+	text-decoration: none;
+}
+a {
+	text-decoration: underline;
+}
+table {
+	border-collapse: collapse;
+	border: 0px;
+	padding: 0px;
+}
+td {
+	padding: 0px;
+}
